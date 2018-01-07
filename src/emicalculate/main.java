@@ -23,7 +23,6 @@ public class main {
 
 
             main.paid(main.payment,main);
-
             System.out.print("\n");
             p--;
         }
